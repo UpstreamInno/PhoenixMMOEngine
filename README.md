@@ -30,4 +30,5 @@ Develop a MMO engine using Phoenix/Elixir with some unique things
  - strategy/skill games, like poker
  
 (c) 2015 Thomas O'Rourke / Upstream Innovations Ltd.
+
 thomas . orourke@upstreaminno.com

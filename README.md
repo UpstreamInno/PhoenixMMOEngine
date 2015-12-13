@@ -10,6 +10,7 @@ Develop a MMO engine using Phoenix/Elixir with some unique things
  - Transactional updates
   - Optimistic UI update in anticipation of commit
  - Non-transactional view updates
+
 - Ability to follow other users, in which case your UI sync (movements only)
 - Detection of user coming online and appearing in map
 - Online/offline tracking

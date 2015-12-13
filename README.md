@@ -18,7 +18,8 @@ Develop a MMO engine using Phoenix/Elixir with some unique things
 - Permissions management, organizations, teams, invitations
 
 # Implementation details
-- AJAX upward path, but websockets return
+- Ajax upward path - but websockets return (transacationally synchronized)
+- Ajax immediate for modal interactions (not synchronized with channel)
 - Runs in HTML5 with Websockets
 
 # What is this useful for

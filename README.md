@@ -1,5 +1,5 @@
 # PhoenixMMOEngine
-Develop a MMO engine using Phoenix/Elixir with some unique things
+Develop a scalable MMO engine using Phoenix/Elixir with some unique things
 
 -- send me email if you want to participate --  (email at bottom)
 
